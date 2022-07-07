@@ -1,4 +1,3 @@
-import { render } from '@testing-library/react';
 import React, { Component } from 'react';
 import { Feedback } from "./Section/Section";
 import { Statistics } from './Statistics/Statistics';
